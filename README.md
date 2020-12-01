@@ -7,3 +7,4 @@
 - [cp3uva](https://saurabh-kadian.github.io/cp3uva)
 - [SPOJ](https://saurabh-kadian.github.io/SPOJ)
 - [Euler](https://saurabh-kadian.github.io/Euler)
+- [Résumé](https://saurabh-kadian.github.io/assets/Resume.pdf)
