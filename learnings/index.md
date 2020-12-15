@@ -1,2 +1,2 @@
 # Learnings
-- [Z-Algorithm](https://saurabh-kadian.github.io/learnings/Z-Algorithm)
+- [Z-Algorithm](https://saurabh-kadian.github.io/learnings/Z-Algorithm/Z-Algorithm)
