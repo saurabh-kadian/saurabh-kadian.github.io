@@ -9,4 +9,4 @@
 - [Euler](https://saurabh-kadian.github.io/Euler)
 - [Résumé](https://saurabh-kadian.github.io/assets/Resume.pdf)
 - [Learnings](https://saurabh-kadian.github.io/learnings/index)
-    - [Z-Algorithm](https://saurabh-kadian.github.io/learnings/Z-Algorithm)
+    - [Z-Algorithm](https://saurabh-kadian.github.io/learnings/Z-Algorithm/Z-Algorithm)
